@@ -1,0 +1,25 @@
+body {
+  font-family: "Russo One", sans-serif;
+}
+
+#navbar {
+  background-color:#A4BE7B;
+}
+
+#trash-images{
+  width:600px;
+  height:400px;
+}
+
+p{
+  text-align: justify;
+}
+
+.text{
+  text-align: justify;
+}
+
+#footer {
+  background-color:#A4BE7B;
+  color: black;
+}

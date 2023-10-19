@@ -11,6 +11,18 @@ body {
   height:400px;
 }
 
+#trash-images-left{
+  width:600px;
+  height:400px;
+  max-width: 100%;
+}
+
+#trash-images-right{
+  width:600px;
+  height:400px;
+  max-width: 100%;
+}
+
 p{
   text-align: justify;
 }

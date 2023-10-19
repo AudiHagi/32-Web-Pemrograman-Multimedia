@@ -2,6 +2,14 @@ body {
   font-family: "Russo One", sans-serif;
 }
 
+p{
+  text-align: justify;
+}
+
+#image-caption{
+  font-size: 12px;
+}
+
 #navbar {
   background-color:#A4BE7B;
 }
@@ -23,15 +31,11 @@ body {
   max-width: 100%;
 }
 
-p{
-  text-align: justify;
+#footer {
+  background-color:#A4BE7B;
+  color: black;
 }
 
 .text{
   text-align: justify;
-}
-
-#footer {
-  background-color:#A4BE7B;
-  color: black;
 }

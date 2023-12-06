@@ -39,3 +39,10 @@ p{
 .text{
   text-align: justify;
 }
+
+.navbar-nav .nav-link.active {
+  text-decoration: underline;
+  text-decoration-color: black;
+  text-decoration-thickness: 4px;
+  text-underline-offset: 4px;
+}

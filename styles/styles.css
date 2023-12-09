@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'Russo One';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://fonts.googleapis.com/css?family=Russo+One') format('woff2'); /* Update with the correct font URL */
+  font-display: swap; /* 'swap' ensures text is displayed immediately with a fallback until the custom font is loaded */
+}
+
 body {
   font-family: "Russo One", sans-serif;
 }
